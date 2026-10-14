@@ -1,0 +1,5 @@
+__pycache__/
+data/leads.csv
+data/leads_enriched.csv
+data/leads_scored.csv
+data/outreach_log.csv
